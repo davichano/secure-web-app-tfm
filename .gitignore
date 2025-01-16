@@ -1,0 +1,8 @@
+env/
+secure-frontend/node_modules/
+secure_web_app/__pycache__/
+secure_web_app/dist
+secure-frontend/dist
+secure_web_app/.idea
+secure-frontend/.idea/
+secure_web_app/.idea/
